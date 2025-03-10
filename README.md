@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Shimul👋 Creator, Front end web developer👨‍💻!<br>🏛️ Graduate Student, at University Of Dhaka<br>✔️ web developer | physicist<br>👨🏽‍🌱 I’m currently Exploring python.<br>👯 I’m looking to collaborate with developers<br>🥅 2024 Goals: Contribute more to Open-Source projects.
+Hi there, I'm Shimul👋 Creator, Front end web developer👨‍💻!<br>🏛️ Graduate Student, at University Of Dhaka<br>✔️ web developer | physicist<br>👨🏽‍🌱 I’m currently Exploring python.<br>👯 I’m looking to collaborate with developers<br>🥅 2025 Goals: Contribute more to Open-Source projects.
 
 
 ## 🌐 Socials:
